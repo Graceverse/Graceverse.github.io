@@ -1,0 +1,30 @@
+.red {
+  color: red;
+}
+.black {
+  color: black;
+}
+.hotpink {
+  color: hotpink;
+}
+.darkgoldenrod {
+  color: darkgoldenrod;
+}
+.green {
+  color: green;
+}
+.gray {
+  color: gray;
+}
+.turquoise {
+  color: turquoise
+}
+.orangered {
+  color: orangered
+}
+.underline {
+  text-decoration: underline;
+}
+.font {
+  font-weight: 900;
+}
