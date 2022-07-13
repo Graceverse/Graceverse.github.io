@@ -4,9 +4,6 @@
 .black {
   color: black;
 }
-.hotpink {
-  color: hotpink;
-}
 .darkgoldenrod {
   color: darkgoldenrod;
 }
@@ -31,14 +28,8 @@
 .brown {
   color: brown
 }
-.skyblue {
-  color: skyblue
-}
-.goldenrod {
-  color: goldenrod
-}
-.lightgreen {
-  color: lightgreen
+magenta {
+  color: magenta
 }
 .underline {
   text-decoration: underline;
